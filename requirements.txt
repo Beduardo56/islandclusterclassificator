@@ -1,0 +1,7 @@
+numpy==1.18.1
+pandas==1.0.0
+scipy==1.4.1
+tables==3.6.1
+pylint==2.4.4
+pylint-fail-under==0.3.0
+pytest==5.3.3
